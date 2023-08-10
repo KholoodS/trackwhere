@@ -1,4 +1,5 @@
-# CodeIgniter 4 Application Starter
+# Trackwhere 
+This repository is dedicated to creating a software for project tracking and mangement. It allows two login views based on role alotted. This is still a work in progress.
 
 ## What is CodeIgniter?
 
