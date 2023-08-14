@@ -53,7 +53,6 @@ class Subadmin extends CI_Controller
            
             if($sub_user[0]->password === md5($password)) //[0] because we are using array object for the response
             {
-
                     $this->session->set_userdata('subadmin_user_id', $sub_user[0]->subadmin_user_id);
                     $this->session->set_userdata('user_email', $sub_user[0]->email);
                     $this->session->set_userdata('username', $sub_user[0]->username);

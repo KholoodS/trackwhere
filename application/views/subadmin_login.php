@@ -61,8 +61,8 @@
                     </div>
 
                     
-                    <div class="form-group">
-                        <label for="password" class="form-label bx bx-hide" id="disabled" >password</label>
+                    <div class="form-group form-password-toggle">
+                        <label for="password" class="form-label" id="disabled" >password</label>
                         <input type="text" class="form-control" id="password" name="password" placeholder="Enter your password" disabled />   
                     </div>
 
